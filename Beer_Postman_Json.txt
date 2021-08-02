@@ -1,0 +1,71 @@
+  {
+    "name": "Colorado Appia",
+    "brand": "Colorado",
+    "max": 10,
+    "quantity": 9, 
+    "type": "LAGER"
+  }
+//****************************************
+  {
+    "name": "Brahma Malzbier",
+    "brand": "Brahma",
+    "max": 20,
+    "quantity": 10, 
+    "type": "MALZBIER"
+  }
+//****************************************
+  {
+    "name": "Baden Witbier",
+    "brand": "Baden",
+    "max": 30,
+    "quantity": 25, 
+    "type": "WITBIER"
+  }
+//****************************************
+  {
+    "name": "Louvada Weiss",
+    "brand": "Louvada",
+    "max": 40,
+    "quantity": 20, 
+    "type": "WEISS"
+  }
+//****************************************
+  {
+    "name": "Eisenbahn",
+    "brand": "Eisenbahn",
+    "max": 15,
+    "quantity": 5, 
+    "type": "ALE"
+  }
+//****************************************
+  {
+    "name": "IPA Lagunitas",
+    "brand": "Lagunitas",
+    "max": 25,
+    "quantity": 15, 
+    "type": "IPA"
+  }
+//****************************************
+  {
+    "name": "Caracu Stout",
+    "brand": "Caracu",
+    "max": 45,
+    "quantity": 35, 
+    "type": "STOUT"
+  }
+//****************************************
+  {
+    "name": "Backbone",
+    "brand": "Backbone",
+    "max": 85,
+    "quantity": 55, 
+    "type": "WITBIER"
+  }
+//****************************************
+  {
+    "name": "Antarctica",
+    "brand": "Antarctica",
+    "max": 35,
+    "quantity": 25, 
+    "type": "WEISS"
+  }
