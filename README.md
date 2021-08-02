@@ -24,7 +24,7 @@ Labs para aprender a testar, unitariamente, uma API REST para o gerenciamento de
 <p>+ Endereço da API em Java.</p>
 
 ```
-http://localhost:8080/api/v1/people
+http://localhost:8080/api/v1/beers
 ```
 
 <p>+ Endereço do banco de dados in-memory H2.</p>
